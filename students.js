@@ -27,7 +27,7 @@ const STUDENTS = {
   "20176664": { name: "Hector Gonzalez", grade: "Octavo" }, "20305579": { name: "Estiven Henriquez", grade: "Octavo" },
   "20305581": { name: "Keily Manueles", grade: "Octavo" }, "20176667": { name: "Gisela Martinez", grade: "Octavo" },
   "20176668": { name: "Osiel Martinez", grade: "Octavo" }, "20179890": { name: "Vladimir Mejia", grade: "Octavo" },
-  "20179891": { name: "Raul Melendez", grade: "Octavo" }, "20293": { name: "Katherine Perez", grade: "Octavo" },
+  "20179891": { name: "Raul Melendez", grade: "Octavo" }, "20293665": { name: "Katherine Perez", grade: "Octavo" }, "20305583": { name: "Samuel Rivas", grade: "Octavo" },
 
   // NOVENO GRADO
   "20062471": { name: "Diego Aguilero", grade: "Noveno" }, "19967142": { name: "Darwin Alfaro", grade: "Noveno" },
